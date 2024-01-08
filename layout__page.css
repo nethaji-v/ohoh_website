@@ -1,0 +1,114 @@
+
+.topPage{
+    background: linear-gradient(to bottom, #eeb4de, white);
+    padding-bottom: 50px;
+}
+.navbarstyles{
+    width: fit-content;
+    margin: auto;
+}
+.logotitle{
+    font-weight: bolder;
+}
+
+.searchs{
+    width: 22%;
+    text-align:center;
+}
+
+.searchinput{
+    border-radius: 20px !important;
+    /* padding-left:0 !important; */
+
+}
+
+.liitemscolor{
+    color: black !important;
+}
+
+.listitems{
+    margin-left: 60px;
+}
+
+.textflow{
+     text-align: center;
+}
+
+.Requestdemo{
+    margin-top: 30px;
+    border-radius: 20px;
+    background-color: white;
+    border: none;
+    height:45px;
+    width: 150px;
+}
+
+.demo{
+    text-align:center;
+    align-content: center;
+    }
+.Getstartedfree{
+    margin-left:30px;
+    margin-top: 30px;
+    border-radius: 20px;
+    background-color: white;
+    border: none;
+    height:45px;
+    width: 180px;
+    background-color: #fa7733;
+    color: white;
+}
+
+.dasbode{
+     margin :auto ;
+     margin-top: 40px;
+     display: block;
+}
+
+.clientele{
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+.glogo{
+margin-left: 80px;
+}
+.ozotec{
+margin-left: 80px;
+margin-top: 10px;
+}
+
+.newtab{
+    border: 1px solid black;
+    border: none;
+    width: 85%;
+    margin:auto;
+    border-radius: 40px;
+    background: linear-gradient(to bottom, #eeb4de, white);
+
+}
+
+.offer{
+    text-align: center;
+    color: #fa7733;
+    margin-top: 20px;
+}
+.cardheadding{
+    padding-top: 20px;
+}
+.cardtext{
+    padding-block: 20px;
+}
+.hrnew{
+    width:40px;
+    margin: auto;
+    border: 2px solid #fa7733;
+    
+}
+
+.ohoh{
+   margin: auto;
+   display: block;
+}
