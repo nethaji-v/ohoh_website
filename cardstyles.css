@@ -1,0 +1,26 @@
+.newtab{
+    width: 96%;
+    margin:auto;
+    border-radius: 40px;
+    background: linear-gradient(to bottom, #eeb4de, #f4f0fd);
+
+}
+
+.offer{
+    text-align: center;
+    color: #fa7733;
+    margin-top:50px;
+    padding-top: 4%;
+}
+.cardheadding{
+    padding-top: 20px;
+}
+.cardtext{
+    padding-block: 20px;
+}
+.hrnew{
+    width:40px;
+    margin: auto;
+    border: 2px solid #fa7733;
+    
+}
