@@ -24,3 +24,9 @@
     border: 2px solid #fa7733;
     
 }
+
+@media (max-width: 768px) {
+    .card {
+        max-width: 90%; 
+    }
+}
